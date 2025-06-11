@@ -1,0 +1,27 @@
+site_name: Surf Wiki  # 网站标题
+site_url: https://yourusername.github.io/surf-wiki/  # GitHub Pages地址
+repo_url: https://github.com/yourusername/surf-wiki  # GitHub仓库地址
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: teal  # 冲浪主题色：蓝绿色
+    accent: amber  # 点缀色：琥珀色
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+
+nav:
+  - Home: index.md
+  - 冲浪教学: lessons/
+  - 冲浪装备: gear/
+  - 冲浪地图: map.md
+  - 新闻资讯: news/
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - admonition
