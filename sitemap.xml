@@ -1,11 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://yourusername.github.io/surf-wiki/</loc>
-         <lastmod>2025-06-11</lastmod>
+         <loc>https://surf-wiki.github.io/</loc>
+         <lastmod>2025-06-12</lastmod>
     </url>
     <url>
-         <loc>https://yourusername.github.io/surf-wiki/map/</loc>
-         <lastmod>2025-06-11</lastmod>
+         <loc>https://surf-wiki.github.io/about/</loc>
+         <lastmod>2025-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://surf-wiki.github.io/gear/</loc>
+         <lastmod>2025-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://surf-wiki.github.io/gear/3d-models/</loc>
+         <lastmod>2025-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://surf-wiki.github.io/gear/guide/</loc>
+         <lastmod>2025-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://surf-wiki.github.io/gear/wetsuits/</loc>
+         <lastmod>2025-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://surf-wiki.github.io/lessons/</loc>
+         <lastmod>2025-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://surf-wiki.github.io/lessons/picture/</loc>
+         <lastmod>2025-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://surf-wiki.github.io/lessons/video/</loc>
+         <lastmod>2025-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://surf-wiki.github.io/map/</loc>
+         <lastmod>2025-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://surf-wiki.github.io/map/china/</loc>
+         <lastmod>2025-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://surf-wiki.github.io/map/global/</loc>
+         <lastmod>2025-06-12</lastmod>
+    </url>
+    <url>
+         <loc>https://surf-wiki.github.io/news/</loc>
+         <lastmod>2025-06-12</lastmod>
     </url>
 </urlset>
