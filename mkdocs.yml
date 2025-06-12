@@ -1,6 +1,6 @@
 site_name: Surf Wiki  # 网站标题
-site_url: https://yourusername.github.io/surf-wiki/  # GitHub Pages地址
-repo_url: https://github.com/yourusername/surf-wiki  # GitHub仓库地址
+site_url: https://surf-wiki.github.io/  # GitHub Pages地址
+repo_url: https://github.com/surf-wiki/surf-wiki  # GitHub仓库地址
 
 theme:
   name: material
@@ -12,16 +12,41 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.top
-
+    - content.tabs.link  # 启用选项卡式内容
+    - content.code.copy  # 启用代码复制按钮
 nav:
   - Home: index.md
   - 冲浪教学: lessons/
   - 冲浪装备: gear/
-  - 冲浪地图: map.md
+  - 冲浪地图: map/
   - 新闻资讯: news/
+  - 关注我们: about.md
 
 markdown_extensions:
   - pymdownx.highlight
-  - pymdownx.superfences
   - pymdownx.tabbed
-  - admonition
+  - admonition  # 提示框
+  - pymdownx.details  # 折叠内容
+  - pymdownx.superfences  # 高级代码块
+  - pymdownx.tabbed:  # 选项卡式内容
+      alternate_style: true
+  - md_in_html
+  - pymdownx.emoji:  # 表情符号
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - search
+  # - video  # 支持视频嵌入
+  - minify:
+      minify_html: true
+
+extra_javascript:
+  - js/3dmodel.js
+  - js/surf-map.js
+  - https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js
+  - js/custom.js
+  - https://unpkg.com/masonry-layout@4.2.2/dist/masonry.pkgd.min.js
+extra_css:
+  - https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css
+  - css/custom.css

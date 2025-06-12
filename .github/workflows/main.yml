@@ -15,6 +15,7 @@ jobs:
           python-version: '3.10'
       - run: pip install mkdocs
       - run: pip install mkdocs-material
+      - run: pip install mkdocs-video
       - run: pip install mkdocs-blogging-plugin  # 记得安装其他依赖的库
       - run: mkdocs build
       - run: mkdocs gh-deploy --force
