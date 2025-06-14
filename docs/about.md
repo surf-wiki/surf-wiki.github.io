@@ -4,13 +4,31 @@
 
 ### 社交平台
 <div class="social-follow">
-  [![小红书](https://cdn-icons-png.flaticon.com/512/2583/2583191.png)](https://www.xiaohongshu.com/user/profile/64d2bxxxx)  
-  [![推特](https://cdn-icons-png.flaticon.com/512/733/733579.png)](https://twitter.com/surf_guide)  
-  [![微博](https://cdn-icons-png.flaticon.com/512/253/253183.png)](https://weibo.com/u/xxxxxx)  
-  [![抖音](https://cdn-icons-png.flaticon.com/512/733/733635.png)](https://v.douyin.com/i6xxxxxx/) 
-  [![Instagram](https://cdn-icons-png.flaticon.com/512/174/174855.png)](https://www.instagram.com/surf_guide/)  
-  [![B站](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://space.bilibili.com/xxxxxx)   
-</div>  
+  <a href="https://twitter.com/your_twitter" target="_blank" class="twitter">
+    <i class="fa fa-twitter"></i>
+    <span>Twitter</span>
+  </a>
+  <a href="https://weibo.com/your_weibo" target="_blank" class="weibo">
+    <i class="fa fa-weibo"></i>
+    <span>微博</span>
+  </a>
+  <a href="https://www.xiaohongshu.com/user/profile/your_id" target="_blank" class="xiaohongshu">
+    <i class="fa fa-instagram"></i> <!-- 小红书没有官方Font Awesome图标，使用Instagram替代 -->
+    <span>小红书</span>
+  </a>
+  <a href="https://www.douyin.com/user/your_id" target="_blank" class="douyin">
+    <i class="fa fa-music"></i> <!-- 抖音使用音乐图标替代 -->
+    <span>抖音</span>
+  </a>
+  <a href="https://www.douyin.com/user/your_id" target="_blank" class="douyin">
+    <i class="fa fa-music"></i> <!-- 抖音使用音乐图标替代 -->
+    <span>抖音</span>
+  </a>
+  <a href="mailto:EMAIL" target="_blank" class="email">
+    <i class="fa fa-envelope"></i> <!-- 抖音使用音乐图标替代 -->
+    <span>邮箱</span>
+  </a>
+</div> 
 
 ## 📝 留言管理
 ### 我的留言

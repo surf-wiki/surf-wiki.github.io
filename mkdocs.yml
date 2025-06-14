@@ -49,8 +49,26 @@ extra_javascript:
   - https://unpkg.com/masonry-layout@4.2.2/dist/masonry.pkgd.min.js
 extra_css:
   - https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css
+  - https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css
   - css/custom.css
 extra:
   analytics:
     provider: google
     property: G-B441KKTT34  # 替换为您的跟踪ID
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/your_twitter
+      name: Twitter
+    - icon: fontawesome/brands/weibo
+      link: https://weibo.com/your_weibo
+      name: 微博
+    - icon: fontawesome/brands/instagram
+      link: https://www.xiaohongshu.com/user/profile/your_id  # 小红书使用Instagram图标替代
+      name: 小红书
+    - icon: fontawesome/brands/tiktok
+      link: https://www.douyin.com/user/your_id
+      name: 抖音
+    - icon: fontawesome/solid/envelope
+      link: mailto:EMAIL
+      name: Email
+      
