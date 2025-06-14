@@ -47,6 +47,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js
   - js/custom.js
   - https://unpkg.com/masonry-layout@4.2.2/dist/masonry.pkgd.min.js
+  - extra_head.html
 extra_css:
   - https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css
   - css/custom.css
