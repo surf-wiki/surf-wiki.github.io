@@ -20,10 +20,6 @@
     <i class="fa fa-music"></i> <!-- 抖音使用音乐图标替代 -->
     <span>抖音</span>
   </a>
-  <a href="https://www.douyin.com/user/your_id" target="_blank" class="douyin">
-    <i class="fa fa-music"></i> <!-- 抖音使用音乐图标替代 -->
-    <span>抖音</span>
-  </a>
   <a href="mailto:EMAIL" target="_blank" class="email">
     <i class="fa fa-envelope"></i> <!-- 抖音使用音乐图标替代 -->
     <span>邮箱</span>
