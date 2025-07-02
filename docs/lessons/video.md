@@ -5,7 +5,7 @@
 === "新手入门"
     ### 1. 冲浪装备选择指南
     <div class="video-container">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/8aXW0JZcL7A" title="YouTube视频" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://youtu.be/qdigEZo3BeU" title="YouTube视频" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     **课程大纲**：  
     - 冲浪板类型选择（短板/长板/软板）  
